@@ -1,51 +1,54 @@
-🍽️ Food Delivery App
+                                                                            🍽️ Food Delivery 
 A modern and responsive Food Delivery Web Application built using React (Vite) with a sleek UI and smooth user experience.
 
-🔥 Features
-🛒 Browse & Order – Explore a wide variety of food items and order with ease.
-⚡ Lightning Fast – Powered by Vite for fast builds & development.
-🎨 Modern UI/UX – Designed for a clean, intuitive experience.
-📱 Mobile-Ready – Fully responsive across all devices.
-
-🛠️ Tech Stack
-Frontend: React (Vite) + TypeScript
-Styling: Tailwind CSS
-State Management: React Context API / Hooks
-Build Tool: Vite
-
-📂 Project Structure
-bash
-Copy
-Edit
-src/
-│── components/     # Reusable UI components  
-│── contexts/       # State management with Context API  
-│── data/           # Mock data / static content  
-│── pages/          # Application pages (Home, Menu, etc.)  
-│── App.tsx         # Main App component  
-│── main.tsx        # App entry point  
-
-⚙️ Getting Started
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/sanskriti06singh/Food-Delivery.git
-cd Food-Delivery
-2. Install Dependencies
-bash
-Copy
-Edit
-npm install
-3. Run the App Locally
-bash
-Copy
-Edit
-npm run dev
-4. Build for Production
-bash
-Copy
-Edit
-npm run build
 🌍 Live Demo
 👉 Click Here to View Live App :https://food-delivery-ebon-kappa.vercel.app/
+
+🔥 About the Project
+The Food Delivery App is designed to provide users with a seamless and efficient online food ordering experience. It allows users to:
+🛒 Browse & explore a variety of food items
+📋 View detailed information for each dish
+⚡ Enjoy blazing-fast performance powered by Vite
+🎨 Navigate through a clean, modern UI built with Tailwind CSS
+This project is scalable and serves as a foundation for creating a full-fledged food ordering platform.
+
+🚀 Tech Stack
+React (Vite) – Frontend framework & fast build tool
+TypeScript – For type-safe development
+Tailwind CSS – Responsive and elegant UI styling
+Context API – For state management
+Vercel – For deployment & hosting
+
+📁 Folder Structure
+bash
+Copy
+Edit
+Food-Delivery/
+│── src/
+│   ├── components/       # Reusable UI components  
+│   ├── contexts/         # Context API for global state  
+│   ├── data/             # Static data & mock APIs  
+│   ├── pages/            # Application pages  
+│   ├── App.tsx           # Root component  
+│   └── main.tsx          # Entry point  
+│── index.html  
+│── package.json  
+│── tailwind.config.js  
+│── README.md  
+
+✨ Features
+✅ Fully responsive design – Works seamlessly on desktop, tablet, and mobile
+✅ Smooth navigation – Powered by Vite for lightning-fast performance
+✅ Component-based architecture – Easy to maintain & scale
+✅ Clean & modern UI – Styled with Tailwind CSS
+✅ Ready for integrations – Authentication, Payments & API support
+
+🔮 Future Scope
+Planned enhancements for the project:
+🔐 User Authentication (Sign-up, Login, Profiles)
+💳 Payment Gateway Integration (for online orders)
+📦 Order Tracking System (real-time order status)
+📊 Admin Dashboard (for managing menus & orders)
+⭐ Customer Ratings & Reviews
+
+
